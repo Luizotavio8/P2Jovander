@@ -1,9 +1,9 @@
 <?php
 // Dados de conexão com o banco de dados
 $servername = "localhost";
-$username = "seu_usuario";
-$password = "sua_senha";
-$dbname = "seu_banco_de_dados";
+$username = "root";
+$password = "";
+$dbname = "p2";
 
 // Receber os dados do formulário
 $nome = $_POST['nome'];
